@@ -1,2 +1,2 @@
 # Media-Query--CSS
-Using Media Query to change background color of a webpage based on different width size, it also help to see if the web page is responsive or not .
+Using Media Query to change the background colour of a webpage based on its width. This also helps to determine whether the web page is responsive.
